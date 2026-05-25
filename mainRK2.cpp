@@ -254,7 +254,7 @@ int main()
 
     double M = 1.0;
     double a = 0.5;
-    KerrMetric Kerr(a, M);
+    KerrMetric Kerr(M, a);
     double Rs = 2 * M;
 
     vector<StateVector> Bodies(5);

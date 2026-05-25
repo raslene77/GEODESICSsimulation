@@ -1,8 +1,3 @@
-
-//
-// ========================= Eval.h
-// =========================
-
 #ifndef GEOSTAR_EVAL_H
 #define GEOSTAR_EVAL_H
 
